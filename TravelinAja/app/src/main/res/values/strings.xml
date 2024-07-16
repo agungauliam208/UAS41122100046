@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelinAja</string>
+    <string name="introTitle">Explorer the <font color='#3f95ec'>\n World </font>with us </string>
+    <string name="subIntro">Unlock the secrets of the world\n and create unforgettable moments along the way.</string>
+</resources>

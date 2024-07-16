@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547663075832",
+    "project_id": "project189-2-ba28c",
+    "storage_bucket": "project189-2-ba28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547663075832:android:f8c6520f147b50e48e9e0d",
+        "android_client_info": {
+          "package_name": "com.vynious.travelinaja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvftnZPhA6mDLdMPVyu5ZYIFC4J0Sy5wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
